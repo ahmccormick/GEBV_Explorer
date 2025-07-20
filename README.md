@@ -23,8 +23,7 @@
 
 ## Data
 
-- App contains the GEBV data for 13 agronomic traits and 16 quality traits  
-  for the Capsicum core collection (n=423).  
+- App contains the GEBV data for 13 agronomic traits and 16 quality traits for the Capsicum core collection (n=423).  
 - Quality traits: `data/GEBV_quality_core_16traits_n423.csv`  
 - Agronomic traits: `data/GEBVs_core_13_agronomic_traits_avg.csv`
 
