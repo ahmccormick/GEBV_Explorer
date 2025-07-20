@@ -30,11 +30,9 @@
 
 ## Usage
 
-- Adjust sliders on the left to filter lines by any GEBV trait  
-  or combination.  
+- Adjust sliders on the left to filter lines by any GEBV trait or combination.  
 - The filtered table updates in real time.  
 - Explore any two-trait scatterplot (default: Yield vs. Brix).  
-- **Red points** highlight the lines that meet all of your  
-  threshold criteria.  
+- **Red points** highlight the lines that meet all of your threshold criteria.  
 - Download filtered lines as a CSV.
 
