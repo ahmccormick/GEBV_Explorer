@@ -6,20 +6,21 @@
 ## Steps to download and run GEBV Explorer
 1) Clone the repo with the below command in terminal
 ```bash
-    git clone https://github.com/ahmccormick/GEBV_Explorer.git
+git clone https://github.com/ahmccormick/GEBV_Explorer.git
     cd GEBV_Explorer
 ```
-
 2) Install dependencies with the below (made using python 3.12.10)
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 3) Launch the app
 ```bash
-   streamlit run GEBV_app_6.py
+streamlit run GEBV_app_6.py
 ```
-
-
+4) Exit from the environment by typing 
+```bash
+deactivate
+```
 
 ## Data
 
