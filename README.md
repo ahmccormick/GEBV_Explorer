@@ -1,4 +1,4 @@
-# 🧬 GEBV Explorer (V1)
+# 🧬 GEBV Explorer (v1)
 ## Interactive visualization of genomic estimated breeding values (GEBVs)
 
 
