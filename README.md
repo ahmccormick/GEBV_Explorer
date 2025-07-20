@@ -1,5 +1,5 @@
 # 🧬 GEBV Explorer
-## Interactively visualization of genomic estimated breeding values (GEBVs)
+## Interactive visualization of genomic estimated breeding values (GEBVs)
 
 
 
@@ -23,14 +23,18 @@
 
 ## Data
 
-#App contains the GEBV data for 13 agronomic traits and 16 quality traits for the Capsicum core collection (n=423)
-#Quality traits: data/GEBV_quality_core_16traits_n423.csv
-#Agronomic traits: data/GEBVs_core_13_agronomic_traits_avg.csv
-
+- App contains the GEBV data for 13 agronomic traits and 16 quality traits  
+  for the Capsicum core collection (n=423).  
+- Quality traits: `data/GEBV_quality_core_16traits_n423.csv`  
+- Agronomic traits: `data/GEBVs_core_13_agronomic_traits_avg.csv`
 
 ## Usage
-#Adjust sliders on the left to filter lines by any GEBV trait or combination.
-#The filtered table updates in real time.
-#Explore any two-trait combinations in the scatterplot (default: Yield vs. Brix).
-#Red points highlight the lines that meet all of your threshold criteria.
-#Download filtered lines as a CSV.
+
+- Adjust sliders on the left to filter lines by any GEBV trait  
+  or combination.  
+- The filtered table updates in real time.  
+- Explore any two-trait scatterplot (default: Yield vs. Brix).  
+- **Red points** highlight the lines that meet all of your  
+  threshold criteria.  
+- Download filtered lines as a CSV.
+
