@@ -1,5 +1,5 @@
-## 🧬 GEBV Explorer
-# An app to interactively filter and visualize genomic estimated breeding values (GEBVs)
+# 🧬 GEBV Explorer
+## Interactively visualization of genomic estimated breeding values (GEBVs)
 
 
 
