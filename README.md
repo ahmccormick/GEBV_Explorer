@@ -1,23 +1,28 @@
-# 🧬 GEBV Explorer
+# 🧬 GEBV Explorer (V1)
 ## Interactive visualization of genomic estimated breeding values (GEBVs)
 
 
 
 ## Steps to download and run GEBV Explorer
-1) Clone the repo with the below command in terminal
+1) Clone the repo with the below command in terminal and change into the directory
 ```bash
 git clone https://github.com/ahmccormick/GEBV_Explorer.git
-    cd GEBV_Explorer
+cd GEBV_Explorer
 ```
-2) Install dependencies with the below (made using python 3.12.10)
+2) Create a new environment (Environment_1) and activate (made using python 3.12.10)
+```bash
+python3 -m venv Environment_1
+source Environment_1/bin/activate 
+```
+3) Install dependencies with the below 
 ```bash
 pip install -r requirements.txt
 ```
-3) Launch the app
+4) Launch the app
 ```bash
 streamlit run GEBV_app_6.py
 ```
-4) Exit from the environment by typing 
+5) Exit from the environment by typing 
 ```bash
 deactivate
 ```
