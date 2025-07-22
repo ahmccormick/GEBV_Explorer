@@ -1,6 +1,7 @@
 # 🧬 GEBV Explorer (v1)
 ## Interactive visualization of genomic estimated breeding values (GEBVs)
 
+![App screenshot](images/screenshot.png)
 
 
 ## Steps to download and run GEBV Explorer
@@ -20,7 +21,7 @@ pip install -r requirements.txt
 ```
 4) Launch the app
 ```bash
-streamlit run GEBV_app_6.py
+streamlit run GEBV_app.py
 ```
 5) Exit from the environment by typing 
 ```bash
